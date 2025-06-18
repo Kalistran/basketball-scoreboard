@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+}
+.container{
+    background: #1B244A;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    text-align: center;
+}
+ h1{
+    margin:  0;
+    color: white;
+}
+.container p{
+    padding: 20px 40px;
+    font-size: 60px;
+    color: #F94F6D;
+    font-family: Cursed Timer ULiL;
+    background: #080001;
+    margin-top: 10px;
+}
+.points{
+    display: flex;
+    justify-content: space-between;
+}
+.points button{
+    border: 1px solid white;
+    color: wheat;
+    padding: 10px;
+    margin: 0px 5px;
+    border-radius: 10%;
+    background: #1B244A;
+}
